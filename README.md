@@ -42,7 +42,7 @@ It showcases my skills, projects, experience, and contact information in a clean
 
 ## 🔗 Live Demo
 
-👉 **Live Website:** *[Add your deployed link here]*  
+👉 **Live Website: https://gandi-venkata-praneeth-530.github.io/Responsive-Portfolio-Website/  
 👉 **GitHub Repository: https://github.com/gandi-venkata-praneeth-530/Responsive-Portfolio-Website
 
 ---
